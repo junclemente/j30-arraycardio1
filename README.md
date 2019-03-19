@@ -18,4 +18,3 @@ This project is a practice in writing vanilla JavaScript and to learn about othe
 * `Array.prototype.sort`: Returns an array sorted by a specific element
 * `Array.from(x)`: Create an array from a node list
 * `Array.prototype.reduce`: Performs a reducer function on each item of the array.
-
